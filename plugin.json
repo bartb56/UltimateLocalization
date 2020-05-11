@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Development",
+  "FriendlyName": "Ultimate Localization",
+  "SystemName": "Ultimate.Localization",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "Bart Blokhuis",
+  "DisplayOrder": 1,
+  "FileName": "Ultimate.Localization.dll",
+  "Description": "This plugin allows developers to quickly translate resources in JavaScript."
+}
